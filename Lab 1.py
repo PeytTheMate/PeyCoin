@@ -1,5 +1,0 @@
-print('My name is Peyton')
-print('')
-print('I am studying Electrical Engineering and I hope to transfer to TAMU')
-print('')
-print('My favorite movie is Inception')
