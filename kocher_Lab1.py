@@ -1,6 +1,0 @@
-print('My name is Peyton')
-# I'm using print(' ') as a way to add whitespace to my code. (See line 3 and 5)
-print(' ') 
-print('I am studying Electrical Engineering and I hope to transfer to TAMU')
-print(' ')
-print('My favorite movie is Inception')
