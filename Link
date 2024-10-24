@@ -1,0 +1,11 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
+
+driver = webdriver.Chrome()  # or use a headless browser
+driver.get('https://www.linkedin.com/login')
+
+driver.find_element_by_id('username').send.keys('peytonkocher@gmail.com')
+driver.find_element_by_id('password').send.keys('@Pdawg2005')
+driver.send_keys(Keys.RETURN)
